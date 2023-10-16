@@ -1,0 +1,173 @@
+{
+    "fornecedor": [
+      {
+        "razaoSocial": "Fornecedor A",
+        "cnpj": "12345678901234",
+        "telefone": "+55 11 1234-5678",
+        "email": "fornecedorA@email.com",
+        "descricao": "Fornecedor de produtos eletrônicos"
+      },
+      {
+        "razaoSocial": "Fornecedor B",
+        "cnpj": "98765432109876",
+        "telefone": "+55 11 9876-5432",
+        "email": "fornecedorB@email.com",
+        "descricao": "Fornecedor de roupas"
+      },
+      {
+        "razaoSocial": "Fornecedor C",
+        "cnpj": "55555555555555",
+        "telefone": "+55 11 5555-5555",
+        "email": "fornecedorC@email.com",
+        "descricao": "Fornecedor de alimentos"
+      },
+      {
+        "razaoSocial": "Fornecedor D",
+        "cnpj": "44444444444444",
+        "telefone": "+55 11 4444-4444",
+        "email": "fornecedorD@email.com",
+        "descricao": "Fornecedor de produtos de limpeza"
+      }
+    ],
+    "funcionario": [
+      {
+        "nome": "João da Silva",
+        "cpf": "123.456.789-01",
+        "email": "joao@email.com",
+        "telefone": "+55 11 9876-5432",
+        "endereco": "Rua Principal, 123",
+        "senha": "senha123"
+      },
+      {
+        "nome": "Maria Santos",
+        "cpf": "987.654.321-09",
+        "email": "maria@email.com",
+        "telefone": "+55 11 5555-5555",
+        "endereco": "Avenida Central, 456",
+        "senha": "admin123"
+      },
+      {
+        "nome": "Pedro Oliveira",
+        "cpf": "111.222.333-44",
+        "email": "pedro@email.com",
+        "telefone": "+55 11 1111-2222",
+        "endereco": "Rua Secundária, 789",
+        "senha": "senha456"
+      },
+      {
+        "nome": "Carla Silva",
+        "cpf": "333.444.555-66",
+        "email": "carla@email.com",
+        "telefone": "+55 11 3333-4444",
+        "endereco": "Avenida da Paz, 321",
+        "senha": "senha789"
+      }
+    ],
+    "administrador": [
+      {
+        "nome": "Lucas Oliveira",
+        "cpf": "456.789.123-45",
+        "email": "lucas@email.com",
+        "telefone": "+55 11 2222-3333",
+        "endereco": "Rua da Administração, 987",
+        "senha": "admin123"
+      },
+      {
+        "nome": "Ana Pereira",
+        "cpf": "888.999.000-11",
+        "email": "ana@email.com",
+        "telefone": "+55 11 8888-9999",
+        "endereco": "Avenida dos Administradores, 555",
+        "senha": "admin456"
+      },
+      {
+        "nome": "Marcos Silva",
+        "cpf": "111.222.333-77",
+        "email": "marcos@email.com",
+        "telefone": "+55 11 1111-7777",
+        "endereco": "Rua dos Administradores, 123",
+        "senha": "admin789"
+      },
+      {
+        "nome": "Carolina Fernandes",
+        "cpf": "222.333.444-88",
+        "email": "carolina@email.com",
+        "telefone": "+55 11 2222-8888",
+        "endereco": "Avenida da Administração, 456",
+        "senha": "admin101"
+      }
+    ],
+    "cliente": [
+      {
+        "nome": "Pedro Costa",
+        "cpf": "444.555.666-99",
+        "email": "pedro@email.com",
+        "telefone": "+55 11 4444-6666",
+        "endereco": "Rua do Cliente, 111"
+      },
+      {
+        "nome": "Sara Santos",
+        "cpf": "777.888.999-00",
+        "email": "sara@email.com",
+        "telefone": "+55 11 7777-8888",
+        "endereco": "Avenida dos Clientes, 222"
+      },
+      {
+        "nome": "Gustavo Pereira",
+        "cpf": "111.222.333-00",
+        "email": "gustavo@email.com",
+        "telefone": "+55 11 1111-3333",
+        "endereco": "Rua dos Clientes, 333"
+      },
+      {
+        "nome": "Mariana Oliveira",
+        "cpf": "333.444.555-00",
+        "email": "mariana@email.com",
+        "telefone": "+55 11 3333-5555",
+        "endereco": "Avenida da Clientela, 444"
+      }
+    ],
+    "produto": [
+      {
+        "nome": "Produto 1",
+        "tamanho": "M",
+        "lote": "L12345",
+        "validade": "2024-05-15",
+        "quantidadeEmEstoque": 100,
+        "estoqueMinimo": 20,
+        "estoqueMaximo": 200,
+        "valorDeReposicao": 30
+      },
+      {
+        "nome": "Produto 2",
+        "tamanho": "L",
+        "lote": "L67890",
+        "validade": "2024-07-30",
+        "quantidadeEmEstoque": 50,
+        "estoqueMinimo": 10,
+        "estoqueMaximo": 100,
+        "valorDeReposicao": 30
+      },
+      {
+        "nome": "Produto 3",
+        "tamanho": "S",
+        "lote": "L54321",
+        "validade": "2024-06-20",
+        "quantidadeEmEstoque": 75,
+        "estoqueMinimo": 15,
+        "estoqueMaximo": 150,
+        "valorDeReposicao": 20
+      },
+      {
+        "nome": "Produto 4",
+        "tamanho": "XL",
+        "lote": "L24680",
+        "validade": "2024-08-10",
+        "quantidadeEmEstoque": 30,
+        "estoqueMinimo": 5,
+        "estoqueMaximo": 60,
+        "valorDeReposicao": 10
+      }
+    ]
+}
+   
