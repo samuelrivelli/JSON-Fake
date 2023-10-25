@@ -1,13 +1,15 @@
 {
     "fornecedor": [
-      {
+      { 
+        "id": 1,
         "razaoSocial": "Fornecedor A",
         "cnpj": "12345678901234",
         "telefone": "+55 11 1234-5678",
         "email": "fornecedorA@email.com",
         "descricao": "Fornecedor de produtos eletrônicos"
       },
-      {
+      {    
+        "id": 2,
         "razaoSocial": "Fornecedor B",
         "cnpj": "98765432109876",
         "telefone": "+55 11 9876-5432",
@@ -15,6 +17,7 @@
         "descricao": "Fornecedor de roupas"
       },
       {
+        "id": 3,
         "razaoSocial": "Fornecedor C",
         "cnpj": "55555555555555",
         "telefone": "+55 11 5555-5555",
@@ -22,6 +25,7 @@
         "descricao": "Fornecedor de alimentos"
       },
       {
+        "id": 4,
         "razaoSocial": "Fornecedor D",
         "cnpj": "44444444444444",
         "telefone": "+55 11 4444-4444",
@@ -31,6 +35,7 @@
     ],
     "funcionario": [
       {
+        "id": 1,
         "nome": "João da Silva",
         "cpf": "123.456.789-01",
         "email": "joao@email.com",
@@ -39,6 +44,7 @@
         "senha": "senha123"
       },
       {
+        "id": 2,
         "nome": "Maria Santos",
         "cpf": "987.654.321-09",
         "email": "maria@email.com",
@@ -47,6 +53,7 @@
         "senha": "admin123"
       },
       {
+        "id": 3,
         "nome": "Pedro Oliveira",
         "cpf": "111.222.333-44",
         "email": "pedro@email.com",
@@ -55,6 +62,7 @@
         "senha": "senha456"
       },
       {
+        "id": 4,
         "nome": "Carla Silva",
         "cpf": "333.444.555-66",
         "email": "carla@email.com",
@@ -65,6 +73,7 @@
     ],
     "administrador": [
       {
+        "id": 1,
         "nome": "Lucas Oliveira",
         "cpf": "456.789.123-45",
         "email": "lucas@email.com",
@@ -73,6 +82,7 @@
         "senha": "admin123"
       },
       {
+        "id": 2,
         "nome": "Ana Pereira",
         "cpf": "888.999.000-11",
         "email": "ana@email.com",
@@ -81,6 +91,7 @@
         "senha": "admin456"
       },
       {
+        "id": 3,
         "nome": "Marcos Silva",
         "cpf": "111.222.333-77",
         "email": "marcos@email.com",
@@ -89,6 +100,7 @@
         "senha": "admin789"
       },
       {
+        "id": 4,
         "nome": "Carolina Fernandes",
         "cpf": "222.333.444-88",
         "email": "carolina@email.com",
@@ -99,6 +111,7 @@
     ],
     "cliente": [
       {
+        "id": 1,
         "nome": "Pedro Costa",
         "cpf": "444.555.666-99",
         "email": "pedro@email.com",
@@ -106,6 +119,7 @@
         "endereco": "Rua do Cliente, 111"
       },
       {
+        "id": 2,
         "nome": "Sara Santos",
         "cpf": "777.888.999-00",
         "email": "sara@email.com",
@@ -113,6 +127,7 @@
         "endereco": "Avenida dos Clientes, 222"
       },
       {
+        "id": 3,
         "nome": "Gustavo Pereira",
         "cpf": "111.222.333-00",
         "email": "gustavo@email.com",
@@ -120,6 +135,7 @@
         "endereco": "Rua dos Clientes, 333"
       },
       {
+        "id": 4,
         "nome": "Mariana Oliveira",
         "cpf": "333.444.555-00",
         "email": "mariana@email.com",
@@ -129,6 +145,7 @@
     ],
     "produto": [
       {
+        "id": 1,
         "nome": "Produto 1",
         "tamanho": "M",
         "lote": "L12345",
@@ -139,6 +156,7 @@
         "valorDeReposicao": 30
       },
       {
+        "id": 2,
         "nome": "Produto 2",
         "tamanho": "L",
         "lote": "L67890",
@@ -149,6 +167,7 @@
         "valorDeReposicao": 30
       },
       {
+        "id": 3,
         "nome": "Produto 3",
         "tamanho": "S",
         "lote": "L54321",
@@ -159,6 +178,7 @@
         "valorDeReposicao": 20
       },
       {
+        "id": 4,
         "nome": "Produto 4",
         "tamanho": "XL",
         "lote": "L24680",
