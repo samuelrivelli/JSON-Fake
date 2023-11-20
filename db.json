@@ -152,8 +152,8 @@
         "quantidadeEmEstoque": 100,
         "estoqueMinimo": 20,
         "estoqueMaximo": 200,
-        "valorDeReposicao": 30
-        "descricao": "Jimo Cupim é ótimo para eliminar cupins e broca. O produto pode ser utilizado para curar madeiras secas e para prevenir de pragas que danificam a madeira."
+        "valorDeReposicao": 30,
+        "descricao": "Jimo Cupim é ótimo para eliminar cupins e broca. O produto pode ser utilizado para curar madeiras secas e para prevenir de pragas que danificam a madeira.",
         "img_url": "https://static.ferramentaskennedy.com.br/storage/original/jimo-cupim-incolor-lata-900ml-jimo_1_1621257002.jpg"
       },
       {
@@ -164,8 +164,8 @@
         "quantidadeEmEstoque": 50,
         "estoqueMinimo": 10,
         "estoqueMaximo": 100,
-        "valorDeReposicao": 30
-        "descricao": "Pedigree com Fortivil: uma combinação cientificamente balanceada de multi-nutrientes e óleo de girassol, que ajuda a manter os cães sempre saudáveisÓleo de Girassol: rico em ácidos graxos (ômega - 3), que promovem maciez e brilho aos pêlosZinco: Essencial para a manutenção de uma pele saudávelVitaminas do complexo b: garantem o excelente crescimento dos pêlosBiotina: promovem uma perfeita renovação dos pêlosVitamina e: garante uma vida longa aos cãeslevedura de cerveja: fonte de vitaminas do complexo b, que mantém os pêlos sedosos e brilhantesDiferença percebida em até 8 semanas"
+        "valorDeReposicao": 30,
+        "descricao": "Pedigree com Fortivil: uma combinação cientificamente balanceada de multi-nutrientes e óleo de girassol, que ajuda a manter os cães sempre saudáveisÓleo de Girassol: rico em ácidos graxos (ômega - 3), que promovem maciez e brilho aos pêlosZinco: Essencial para a manutenção de uma pele saudávelVitaminas do complexo b: garantem o excelente crescimento dos pêlosBiotina: promovem uma perfeita renovação dos pêlosVitamina e: garante uma vida longa aos cãeslevedura de cerveja: fonte de vitaminas do complexo b, que mantém os pêlos sedosos e brilhantesDiferença percebida em até 8 semanas",
         "img_url": "https://images-americanas.b2w.io/produtos/4088320278/imagens/racao-para-cachorro-pedigree-racas-pequenas-10-1kg/4088320278_1_large.jpg"
       },
       {
@@ -176,7 +176,7 @@
         "quantidadeEmEstoque": 75,
         "estoqueMinimo": 15,
         "estoqueMaximo": 150,
-        "valorDeReposicao": 20
+        "valorDeReposicao": 20,
         "descricao" : " O Potenay Oral Gold B12 é um suplemento formulado com vitaminas essenciais para promover o aumento do tônus muscular e estimular o sistema circulatório em animais. Sua fórmula completa oferece suporte nutricional para combater fraquezas, fadiga, estresse, abatimento, anemia, desnutrição e auxiliar na recuperação durante a convalescença de enfermidades infecciosas e parasitárias. Além disso, é um tônico reconstituinte ideal para períodos de gestação e lactação.",
         "img_url" : "https://static.wixstatic.com/media/83a292_303dc2164dcd421e92f57ca28d81d471~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/83a292_303dc2164dcd421e92f57ca28d81d471~mv2.jpg"
        },
@@ -188,8 +188,8 @@
         "quantidadeEmEstoque": 30,
         "estoqueMinimo": 5,
         "estoqueMaximo": 60,
-        "valorDeReposicao": 10
-        "descricao": "Vit ADE atua como estimulante do crescimento, engorda, fertilidade e lactação."
+        "valorDeReposicao": 10,
+        "descricao": "Vit ADE atua como estimulante do crescimento, engorda, fertilidade e lactação.",
         "img_url": "https://io.convertiez.com.br/m/lojaagropecuaria/shop/products/images/846/medium/vit-ade-calbos-100-ml_186345.png"
       }
     ]
