@@ -161,7 +161,7 @@
         "bairro": "Monte Castelo",
         "rua": "Rua Jose Silva",
         "numero_residencia": "430",
-        "complemento": "Perto da Padaria",
+        "complemento": "Perto da Padaria"
       },
       {
         "id": 2,
@@ -174,7 +174,7 @@
         "bairro": "Cascatinha",
         "rua": "Rua do Torugo",
         "numero_residencia": "856",
-        "complemento": "Ap 1074",
+        "complemento": "Ap 1074"
       },
       {
         "id": 3,
@@ -187,7 +187,7 @@
         "bairro": "Fabrica",
         "rua": "Rua Bernardo Mascarenhas",
         "numero_residencia": "56",
-        "complemento": "perto do IF",
+        "complemento": "perto do IF"
       },
       {
         "id": 4,
@@ -200,8 +200,8 @@
         "bairro": "Aeroporto",
         "rua": "Rua Fulano de Tal",
         "numero_residencia": "30",
-        "complemento": "bloco 2, ap 902",
-      }
+        "complemento": "bloco 2, ap 902"
+      },
     ],
     "produto": [
       {
