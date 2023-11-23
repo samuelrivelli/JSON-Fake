@@ -1,4 +1,4 @@
-{
+{    
     "fornecedor": [
       { 
         "id": 1,
@@ -40,7 +40,12 @@
         "cpf": "123.456.789-01",
         "email": "joao@email.com",
         "telefone": "+55 11 9876-5432",
-        "endereco": "Rua Principal, 123",
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Centro",
+        "rua": "Rua Fulano da Silva",
+        "numero_residencia": "30",
+        "complemento": "Bloco 2, ap 10",
         "senha": "senha123"
       },
       {
@@ -49,7 +54,12 @@
         "cpf": "987.654.321-09",
         "email": "maria@email.com",
         "telefone": "+55 11 5555-5555",
-        "endereco": "Avenida Central, 456",
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Sao Mateus",
+        "rua": "Rua Ciclano de Sousa",
+        "numero_residencia": "31",
+        "complemento": "Bloco 4, ap 11",
         "senha": "admin123"
       },
       {
@@ -58,7 +68,12 @@
         "cpf": "111.222.333-44",
         "email": "pedro@email.com",
         "telefone": "+55 11 1111-2222",
-        "endereco": "Rua Secundária, 789",
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Democrata",
+        "rua": "Rua Beltrano da Silva",
+        "numero_residencia": "48",
+        "complemento": "Bloco 8, ap 905",
         "senha": "senha456"
       },
       {
@@ -67,7 +82,12 @@
         "cpf": "333.444.555-66",
         "email": "carla@email.com",
         "telefone": "+55 11 3333-4444",
-        "endereco": "Avenida da Paz, 321",
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Centro",
+        "rua": "Rua Joao Pereira",
+        "numero_residencia": "30",
+        "complemento": "Bloco 2, ap 10",
         "senha": "senha789"
       }
     ],
@@ -78,7 +98,12 @@
         "cpf": "456.789.123-45",
         "email": "lucas@email.com",
         "telefone": "+55 11 2222-3333",
-        "endereco": "Rua da Administração, 987",
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Centro",
+        "rua": "Rua Joao Cardoso",
+        "numero_residencia": "48",
+        "complemento": "Bloco 1, ap 105",
         "senha": "admin123"
       },
       {
@@ -87,7 +112,12 @@
         "cpf": "888.999.000-11",
         "email": "ana@email.com",
         "telefone": "+55 11 8888-9999",
-        "endereco": "Avenida dos Administradores, 555",
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Sao Pedro",
+        "rua": "Rua YXZ",
+        "numero_residencia": "10",
+        "complemento": "Proximo ao mercado XXX",
         "senha": "admin456"
       },
       {
@@ -96,7 +126,12 @@
         "cpf": "111.222.333-77",
         "email": "marcos@email.com",
         "telefone": "+55 11 1111-7777",
-        "endereco": "Rua dos Administradores, 123",
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Benfica",
+        "rua": "Rua Residencial",
+        "numero_residencia": "90",
+        "complemento": "Bloco 4, ap 107",
         "senha": "admin789"
       },
       {
@@ -105,7 +140,12 @@
         "cpf": "222.333.444-88",
         "email": "carolina@email.com",
         "telefone": "+55 11 2222-8888",
-        "endereco": "Avenida da Administração, 456",
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Santa Cruz",
+        "rua": "Rua Joao Pereira",
+        "numero_residencia": "120",
+        "complemento": "Bloco 2, ap 104",
         "senha": "admin101"
       }
     ],
@@ -116,15 +156,25 @@
         "cpf": "444.555.666-99",
         "email": "pedro@email.com",
         "telefone": "+55 11 4444-6666",
-        "endereco": "Rua do Cliente, 111"
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de For",
+        "bairro": "Monte Castelo",
+        "rua": "Rua Jose Silva",
+        "numero_residencia": "430",
+        "complemento": "Perto da Padaria",
       },
       {
         "id": 2,
-        "nome": "Sara Santos",
+        "nome": "Victor Hugo",
         "cpf": "777.888.999-00",
-        "email": "sara@email.com",
+        "email": "victor@email.com",
         "telefone": "+55 11 7777-8888",
-        "endereco": "Avenida dos Clientes, 222"
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Cascatinha",
+        "rua": "Rua do Torugo",
+        "numero_residencia": "856",
+        "complemento": "Ap 1074",
       },
       {
         "id": 3,
@@ -132,7 +182,12 @@
         "cpf": "111.222.333-00",
         "email": "gustavo@email.com",
         "telefone": "+55 11 1111-3333",
-        "endereco": "Rua dos Clientes, 333"
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Fabrica",
+        "rua": "Rua Bernardo Mascarenhas",
+        "numero_residencia": "56",
+        "complemento": "perto do IF",
       },
       {
         "id": 4,
@@ -140,7 +195,12 @@
         "cpf": "333.444.555-00",
         "email": "mariana@email.com",
         "telefone": "+55 11 3333-5555",
-        "endereco": "Avenida da Clientela, 444"
+        "estado": "Minas Gerais",
+        "cidade": "Juiz de Fora",
+        "bairro": "Aeroporto",
+        "rua": "Rua Fulano de Tal",
+        "numero_residencia": "30",
+        "complemento": "bloco 2, ap 902",
       }
     ],
     "produto": [
